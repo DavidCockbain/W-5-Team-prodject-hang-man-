@@ -106,6 +106,7 @@ while incorect < 9:
     else :
         
         class man:
+            #To represent the player.
             print("   O  ")
             print("  /|\ ")
             print("  / \ ")
