@@ -91,6 +91,7 @@ while incorect < 9:
     if p_8 == no_parachute_8:
         
         class dead_man:
+            #What is showen if the player runs out of parachute.
             print  ("     |  ")
             print  ("     x  ")
             print  ("    /|\ ")
